@@ -1,0 +1,5 @@
+{
+    "fortran.fortls.preprocessor.definitions": {
+        "NUMBER_PREPROCESSED": "real"
+    }
+}
